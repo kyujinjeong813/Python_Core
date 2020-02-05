@@ -10,3 +10,6 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
 * cat & dog kaggle
 https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/
+
+* U-net (생명공학 쪽에서 많이 사용, 외곽선따기(?))
+https://m.blog.naver.com/worb1605/221333597235
