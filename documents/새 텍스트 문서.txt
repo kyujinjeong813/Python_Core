@@ -1,18 +1,9 @@
-<GAN>
+=======================GAN=======================
 * Image Completion with Deep Learning in TensorFlow
 https://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution
 
 * 생성적 적대 신경망(GANs)에 대한 초보자용 가이드 (GANs)
 https://pathmind.com/kr/wiki/generative-adversarial-network-gan
-
-* object detection install & how to use 
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
-
-* cat & dog kaggle
-https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/
-
-* U-net (생명공학 쪽에서 많이 사용, 외곽선따기(?))
-https://m.blog.naver.com/worb1605/221333597235
 
 * 중궈 / 텐서플로 2.0 (DC GAN도 있음, 튜토리얼같긴한데?)
 https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/01-TF2.0-Overview
@@ -20,15 +11,38 @@ https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/01-TF2.0-Over
 * GAN 관련 블로그...
 https://blog.naver.com/laonple/220563347553
 
+=================================================
+===================CNN & object detection==============
+* CNN & keras ImageDataGenerator (개편함....세상에나)
+https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/
+
+* cat & dog kaggle
+https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/
+
+* object detection install & how to use 
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
+
 * object detection @ keras tutorial
-https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
+https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras
+
+* U-net (생명공학 쪽에서 많이 사용, 외곽선따기(?))
+https://m.blog.naver.com/worb1605/221333597235
+
+*** 프로젝트 관련 _ 뉴럴 스타일 _
+https://github.com/genekogan/neural-style-pt/blob/master/neural_style.py
+
+=================================================
 
 * keras documentation 엄청나당...@)@
 https://keras.io/layers/convolutional/
 
+=======================NLP=======================
 * 단어 임베딩 (데사 + 관련 논문 링크)
 https://datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/
+
 * word2vec 엄청 쉽고 정확하게 잘 쓴 글!!
 https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html
+
 * 위 사람의 주피터 튜토리얼 모음 (짱이당..)
 https://nbviewer.jupyter.org/github/dreamgonfly/
+
