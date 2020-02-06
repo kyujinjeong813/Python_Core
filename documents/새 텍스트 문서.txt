@@ -13,3 +13,22 @@ https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-
 
 * U-net (생명공학 쪽에서 많이 사용, 외곽선따기(?))
 https://m.blog.naver.com/worb1605/221333597235
+
+* 중궈 / 텐서플로 2.0 (DC GAN도 있음, 튜토리얼같긴한데?)
+https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/01-TF2.0-Overview
+
+* GAN 관련 블로그...
+https://blog.naver.com/laonple/220563347553
+
+* object detection @ keras tutorial
+https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
+
+* keras documentation 엄청나당...@)@
+https://keras.io/layers/convolutional/
+
+* 단어 임베딩 (데사 + 관련 논문 링크)
+https://datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/
+* word2vec 엄청 쉽고 정확하게 잘 쓴 글!!
+https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html
+* 위 사람의 주피터 튜토리얼 모음 (짱이당..)
+https://nbviewer.jupyter.org/github/dreamgonfly/
