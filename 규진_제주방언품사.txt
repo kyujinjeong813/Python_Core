@@ -1,0 +1,623 @@
+둥글어	Adjective
+댕기곡	Verb
+담	Noun
+우	Noun
+이	Josa
+걸쳐진	Verb
+감저줄	Noun
+에	Josa
+동글동글	Adverb
+도라진	Verb
+감저동가리	Noun
+이래	Adverb
+도라앉작	Verb
+저래	Adverb
+도라앉작	Verb
+워어허허	Adverb
+보름	Noun
+부는	Verb
+제주	Noun
+의	Josa
+하늘	Noun
+아	Josa
+먹쿨낭	Noun
+꼭대기	Noun
+에	Josa
+앚인	Verb
+먹쿨	Noun
+생	Noun
+이	Josa
+안	Adverb
+털어져보잰	Verb
+낭가쟁이	Noun
+꽉	Adverb
+심엉	Verb
+있곡	Verb
+조밭	Noun
+볼리는	Verb
+몽생이	Noun
+조름	Noun
+에	Josa
+일어나는	Verb
+흙	Noun
+구듬	Noun
+은	Josa
+노	Noun
+미	Josa
+밧	Noun
+더레	Josa
+넘어가곡	Verb
+동네	Noun
+큰	Verb
+폭낭	Noun
+아래	Noun
+검불령	Verb
+가젠허민	Verb
+불어오는	Verb
+저	Noun
+보름	Noun
+은	Josa
+무사	Noun
+영	Adverb
+건드러운지	Verb
+기여	Adjective
+혼저	Adverb
+가라	Verb
+보름	Noun
+아	Josa
+해녀	Noun
+삼춘	Noun
+또시	Noun
+물	Noun
+에	Josa
+감쩌	Verb
+테왁	Noun
+메영	Verb
+골갱이	Noun
+들렁	Verb
+좀수복	Noun
+입엉	Verb
+뒤뚱뒤뚱	Adjective
+절이치는	Verb
+바당	Noun
+더레	Josa
+강	Verb
+보난	Verb
+테왁	Noun
+덜	Noun
+이	Josa
+동동	Adjective
+춤	Noun
+을	Josa
+췀쩌	Verb
+덜	Suffix
+또시	Adjective
+물	Noun
+에	Josa
+들었쩌	Verb
+숨비	Noun
+소리	Noun
+쏟아가멍	Verb
+또시	Noun
+들멘	Josa
+궤기	Noun
+추룩	Josa
+홀랑	Adjective
+꼬릴	Noun
+췀쩌	Verb
+나	Noun
+도	Josa
+확	Adjective
+벗엉	Verb
+물쏘	Noun
+곱이	Josa	
+들어가보카	Verb
+들	Noun
+렁	Josa
+이	Determiner
+짝	Noun
+드레	Josa	
+온거	Verb
+보난	Verb
+성게	Noun
+도	Josa
+지깍	Adjective
+구젱	Noun
+기영	Josa
+전복	Noun
+이영	Josa
+아고	Modifier
+이건	Noun
+뭐	Noun
+라	Josa
+물꾸럭	Noun
+도	Josa
+잡앙	Verb
+와신게	Verb
+나	Determiner
+얼마	Noun
+마씸	Josa
+조케	Noun
+야	Josa
+느	Noun
+랑	Josa
+기냥	Noun
+거정가불라	Verb
+에고	Noun
+무신	Noun
+소리	Noun
+꽈	Josa
+게민	Adjective
+조냑	Noun
+에랑	Josa
+당근	Noun
+파당	Noun
+거정안내주마씀	Verb
+물빡	Noun
+으로	Josa
+물	Noun
+먹으민	Verb
+시염	Noun
+안	VerbPrefix
+돋나	Verb
+물애기	Noun
+옷	Noun
+을	Josa
+막개	Noun
+로	Josa
+뽈민	Verb
+애기	Noun
+놀랜다	Adjective
+밤	Noun
+에	Josa
+얼래기질	Noun
+호민	Verb
+모솜	Noun
+탄다	Verb
+비는	Verb
+놈	Noun
+안틴	Josa
+지여사	Noun
+혼다	Verb
+비	Noun
+온	Verb
+날	Noun
+쇠총지	Noun
+이레	Adverb
+착	Noun
+저레	Adverb
+혼다	Verb
+빈	Adjective
+고래	Noun
+질	Noun
+호민	Verb
+숭년	Noun
+든다	Verb
+가난한	Adjective
+사람	Noun
+못	VerbPrefix
+할	Verb
+일	Noun
+읏나	Adjective
+까메기	Noun
+까옥	Adverb
+호민	Verb
+촘새	Noun
+도	Josa
+조조조	Adverb
+혼다	Verb
+까메기	Noun
+똥	Noun
+케우리듯	Verb
+모른	Verb
+식게	Noun
+알라구리	Noun
+털어질	Verb
+소리	Noun
+가시어멍	Noun
+눈	Noun
+멜를	Verb
+사위	Noun
+장	Noun
+읏인	Adjective
+깐	Noun
+에	Josa
+국	Noun
+실픈	Adjective	
+각시	Noun
+아꼬우민	Adjective	
+처갯	Noun
+칩	Noun
+몰팡	Noun
+돌	Noun
+에	Josa
+절	Noun
+혼다	Verb
+읏인	Adjective
+건	Noun
+안	Noun
+섭섭해도	Adjective
+남통머리	Noun
+잃른	Verb
+건	Noun
+섭섭호다	Adjective
+처갯	Noun
+칩	Noun
+가나	Verb
+마나	Verb
+갈치	Noun
+가	Josa
+꼴랭이	Noun
+그차	Verb
+먹나	Verb
+갭인년	Noun
+숭년	Noun
+에	Josa
+도	Josa
+먹당	Verb
+남은	Verb
+게	Noun
+물	Noun
+이여	Josa
+갓	Noun
+쟁이	Noun
+헌	Modifier
+갓	Noun
+씨곡	Verb
+심방	Noun
+놈	Noun
+빌엉	Verb
+굿	Noun
+허곡	Verb
+강생이	Noun
+똥	Noun
+은	Josa
+아니가	Adjective
+개	Noun
+가	Josa
+똥	Noun
+을	Josa
+촘주	Verb
+도	Josa
+비치락	Noun
+으로	Josa
+안	VerbPrefix
+또린다	Verb
+개똥	Noun
+을	Josa
+모소왕	Adjective
+피호느냐	Verb
+더러웡	Adjective
+피호주	Verb
+도	Josa
+약	Noun
+에	Josa
+쓰젠허민	Verb
+귀혼다	Adjective
+건지	Noun
+먹은	Verb
+놈	Noun
+이나	Josa
+국물	Noun
+먹은	Verb
+검은	Adjective
+독	Noun
+도	Josa
+흰	Adjective
+독새기	Noun
+난다	Verb
+것	Noun
+구숭	Noun
+호로	Noun
+조식	Noun
+글	Noun
+구숭	Noun
+양반	Noun
+조식	Noun
+멋을	Verb
+땐	Josa
+개	Noun
+도	Josa
+안	VerbPrefix
+또린다	Verb
+박접	Noun
+허면	Verb
+죄	Noun
+짓나	Verb
+게드레기	Noun
+도	Josa
+집	Noun
+이	Josa
+싯나	Adjective
+곤	Adjective
+사름	Noun
+은	Josa
+맥	Noun
+을	Josa
+씌어도	Verb
+곱나	Adjective
+곤	Adjective
+년	Noun
+잡아	Verb
+들이렌	Verb
+허난	Verb
+솔친	Adjective
+년	Noun
+잡아	Noun
+들인다	Noun
+곧은	Adjective
+낭	Noun
+은	Josa
+가운디	Noun
+산다	Verb
+골체	Noun
+부지런	Adjective
+은	Josa
+하늘	Noun
+도	Josa
+못	VerbPrefix
+막나	Verb
+공께	Noun
+엥	Josa
+허민	Verb
+눈	Noun
+뻘겅	Adjective
+코	Noun
+도	Josa
+벌겅	Adjective
+공껀	Noun
+씨여도	Verb
+돈다	Verb
+공부	Noun
+허렌	Josa
+허난	Noun
+개	Noun
+잡는걸	Verb
+뱁나	Verb
+고튼	Adjective
+품	Noun
+이민	Josa
+홀어멍	Noun
+칩	Noun
+머슴산다	Verb
+구젱	Noun
+기	Josa
+똥	Noun
+누레	Verb
+가불민	Verb
+게드레기	Noun
+가	Josa
+기어든다	Verb	
+국	Noun
+하영	Adverb
+먹으민	Verb
+가시어멍	Noun
+눈	Noun
+멜라진다	Verb
+굼벵이	Noun
+도	Josa
+꿈불	Verb
+재주	Noun
+있나	Verb
+귀막앙	Noun
+삼	Modifier
+년	Noun
+눈어둑엉	Noun
+말몰랑	Noun
+살암서사	Verb
+가렝	Verb
+오렝	Verb
+말	Noun
+읏나	Verb
+귀신	Noun
+대접	Noun
+잘	Adverb
+호영	Verb
+그른디	Adjective
+읏나	Verb
+귀	Modifier
+소문	Noun
+말앙	Verb
+눈	Noun
+호라	Verb
+도	Josa
+빌민	Verb
+듣나	Verb
+괸당	Noun
+은	Josa
+옷	Noun
+우	Noun
+이	Josa
+보름	Noun
+그	Noun
+날	Noun
+액	Noun
+은	Josa
+망데기	Noun
+안	Noun
+에	Josa
+아자도	Verb
+깬다	Verb
+그짓말	Noun
+도	Josa
+외삼춘	Noun
+보다	Josa
+낫나	Verb
+글	Noun
+못	VerbPrefix
+허는	Verb
+놈	Noun
+붓	Noun
+골린다	Verb
+배우렌	Verb
+호난	Verb
+홀어멍	Noun
+칩	Noun
+강생일	Noun
+또린다	Verb
+기도	Verb
+못	VerbPrefix
+호는게	Verb
+놀젱	Verb
+혼다	Verb
+깅이	Noun
+광	Josa
+보말	Noun
+도	Josa
+지	Noun
+집	Noun
+싯나	Verb
+기시린	Adjective
+도새기	Noun
+도라멘	Adjective
+타령혼다	Verb
+골체
+부지런
+은
+하늘
+도
+못
+막나
+고튼 품이민 홀 어멍칩 머슴산다.
+고늘이 먹곡 고늘이 쓰라
+관덕정이 설렁탕도 먹어난 놈이 먹나
+끅 걷으레 간 놈이 정당 벌립 망 돌른다.
+나간 놈 찍신 셔도 자는 놈 찍신 읏나
+나댕기는 개가 꽝 물어 온다. 
+나 땅 까메긴 검어도 아깝나
+나서 화목은 남조가 허곡 들어 화목은 여조가 혼다.
+나 한 아재비 지라.
+"남조가 디딘 풀은 유울곡, 여조가 디딘 풀은 안 유운다."
+낭도 늙엉 고목되민 놀단 생이도 아니 온다.
+낭이 좀 먹주 세월 좀 안먹나
+나 똘이 고와사 사윌 골른다.
+너미 골리당 눈 까진 사윌 골린다.
+"노름쟁이 뒤랑 대곡, 먹는 놈 뒤랑 대지말라."
+노름은 신 신을 때 봐사 안다.
+노름쟁인 망호여도 흥호진 못혼다.
+노리 또린 막땡이 3년 우려 먹나
+노리궤기 혼점 먹젠 호당 지 궤기 열 점 일른다.노루고기 한 점 얻어 먹으려다가 자기의 고기 열점을 잃은다.
+놈 곱진 것 쉐도 못 찾나
+"놈광 심백은 호곡, 게심이랑 허지 말라."
+놈 싼 훼에 깅이잡기.
+놈이 눈에 피 내우젠 허민 이녁 눈엔 고름 나사 혼다.
+놈이 쉐 들럭키는 건 보기 좋나.
+놈이 숭 털민 이녁 숭 된다.
+놈이 집광 관장살인 궤던 밥도 내부러동 돋나.
+놋 시칠 때에 물 하영 쓰민 죽엉 가민 다 먹어사 혼다.
+눈 까진 똘 고졍 사윌 고른다.
+눈 낭에 요름 요는냐?
+눈 썹에 불 붙어도 끌 조를이 읏나.
+늘근 쉐 콩 주엉 말덴 호느냐?
+늑신네가 젊은 첩 호민 불 본 나비 놉뜨듯 혼다.
+"니 아픈 부릅씨랑 허곡, 눈 아픈 부릅씨랑 말라."
+"다심 아덜은 콩 죽 멕이곡, 원 아덜은 폿 죽 멕인다."
+"다심아방 궤기 써는 디랑 가고, 원아방 낭깨는 디랑 얼씬을 말라."
+대천 바당도 건너 봐사 안다.
+대정 몽생이 요망진다.
+덴디 꺼럭 아니 돗나
+도 터질 밭디 모쉬 들듯.
+도둑놈광 샛뭇은 묶엉 세와노민 똑 닮나.
+
+오천원입니다
+큰일 났습니다
+어떻게 생겼던가
+어디로 모실까요
+똑똑하고 영리하게 생겼습니다
+제주특별자치도에서 삽시다
+따스합니까
+왜 그러십니까
+오시느라 고생 많으셨습니다
+빨리빨리 더빨리 오세요
+참말로 이쁘고 둥실둥실합니다
+이곳은 바람도 많이 불고있네
+소문나면 저는 모른다
+이곳에 있으니 엄마 보고싶다
+지쳐서 잠이 온다
+햇볕은 쨍쨍 모래알은 반짝반짝
+아무리 이야기하여도 귀 눈이 캄캄
+그러기에 말입니다
+나를 보십시오
+잘되어 버렸다
+어마어떻게 하지
+
+제주도 사투리로 말 호난
+무신거랜 고람 신지 몰르쿠게
+게메 마씀
+귀 눈이 왁왁하우다
+경해도 고만히 생각호멍 들으민 호끔씩 알아집니다.
+오랜만이우다
+몸은 펜안 하우꽈
+얼굴이 펜안해 보염수다
+혼저옵서예
+제주도 오잰하난 폭삭 속아수다
+제주도 오난 촘말로 좋수다
+산이영 바당이영 몬딱 좋은게 마씀
+많이많이봥으네 서울에 갈 때랑 하영 담앙 갑서
+게메 양
+경 해시민 얼마나 좋코 마씀
+"안트레 들어 왕, 밥 먹엉 갑서"
+제주도 와시난 전복죽드셔봥 가살꺼 아니꽝
+혼저 왕 드셩갑서
+맨도롱 했수과
+뜻뜻혼 게 먹기 똑 좋았수다
+맛있수다
+여기예
+이거 키로에 얼마마씨?
+사천원마씨
+기꽝?
+사천원치 줍서
+하영줍서예
+많이 담암수다양
+맛있게 드십써 양
+삼성혈가잰하는디예
+어디로 가면 되마씨?
+여기서 10분만 밑트레강 칼호텔조끄티서 바로 왼펜돌아가민 되우다
+알아지쿠가?
+"거기강 봥으네, 아무사람이나 잡앙 물어보민 잘 말해 줄꺼우다"
+관광 잘행 갑써예
+혼저옵서예
+고만이십서게
+고만 이시라게
+무신거 햄쑤꽈?
+무신거 햄시니?
+무사 경 급호꽈?
+무사 경 급호냐?
+확 옵서게
+어떵 살아 점수꽈?
+무싱거엔 고람쑤꽈?
+귀 눈이 왁왁하우다.
+맨도롱 혼때 호로록 들여 싸 붑써
+무싱 걸 몽캐미꽈?
+"왕 봅서, 고랑은 몰라 마씀"
+곱들락 호게 몬뜰락 벗엉 옵서
+어디 갔당 왐수꽈?
+어드레 감수꽈?
+"둥그리멍 키웁서, 경 해사 혼저 큽니다."
+"어떵 살코, 저들지 맙서, 촘앙 살민 살아집니다"
+느영 나영 두리둥실 소랑호게 마씸
+혼저 옵서
+제주도에 오난 어떵 하우꽈?
+촘말로 좋수다
+왕 봅서
+고랑은 몰라마씀
+무상 경 고람수꽈?
+몽캐지 말앙 혼저 오라게
+호꼼만 이십서게
+혼저 왕 먹읍서
+맨드롱 했수꽈?
+맨도롱 홀 때 호로록 들여 싸붑서
+혼저 옵서.
+"제주도 사투리로 말 호난, 무신 거옌 고람 신디 몰르쿠게?"
+게메 마씀.
+귀 눈이 왁왁하우다.
+경해도 고만히 생각호멍 들으민 조금씩 알아집니다.
+제주도 사투리 촘말로 귀하고 아름다운 보물이우다.
+펜안 하우꽈?
+제주도에 오난 어떵 하우꽈?
+촘말로 좋수다.
+"공기도 맑고, 산이영 바당이영 몬딱 좋은게 마씀."
+서울에 갈 때랑 하영 담앙 갑서.
+"게메, 양."
+경 해시민 얼마나 좋코 마씀?
+"저기, 물허벅 정 가는 거, 
